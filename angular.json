@@ -97,6 +97,9 @@
             "scripts": []
           }
         }
+      },
+      "cli": {
+        "analytics": "ec176bb4-3e8e-4d5a-a325-83b1b1718bf5"
       }
     }
   }
