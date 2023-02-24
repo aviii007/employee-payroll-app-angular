@@ -114,3 +114,10 @@ td img{
     cursor: pointer;
     text-decoration: none;
 }
+#search{
+    background-color: white;
+    padding: 8px 15px;
+    border: solid white;
+    border-radius: 20px;
+    margin-left: 70%;
+    }
